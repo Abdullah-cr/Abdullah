@@ -1,0 +1,25 @@
+nav a{
+    margin: 20x;
+    text-decoration: none;
+    padding: 1%;
+    color: black;
+}
+nav {
+    width: 100%;
+    text-align: center;
+    padding: 1%;
+    background-color: blueviolet;
+}
+img{
+    border-radius: 50%;
+    margin: 1%;
+    width: 500px;
+    height: 500px;
+}
+p{
+    font-family: 'Lucida Sans';
+    font-size: 18px;
+}
+h1{
+    font-family: cursive;
+}
